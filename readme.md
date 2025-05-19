@@ -160,7 +160,7 @@ recommend_cf(user_id=10)
 Metrik yang Digunakan
 RMSE (Root Mean Square Error)
 
-![RMSE]("./RMSE.png")
+![RMSE](https://raw.githubusercontent.com/AfifHamzah17/submission-BMLT-RS/main/RMSE.png)
 
 Mengukur akurasi prediksi rating untuk CF.
 | Pendekatan          | Metrik | Nilai  |
